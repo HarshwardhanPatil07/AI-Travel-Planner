@@ -1,5 +1,3 @@
-# Nomadic Quest
-
 ## AI-Based Travel Planner
 This project is an AI-powered travel planner that generates personalized travel itineraries based on user preferences like budget, number of people, travel dates, and more. It utilizes Gemini AI for intelligent recommendations and the Amadeus API for up-to-date flight and hotel information.
 
@@ -27,7 +25,7 @@ Ensure you have the following installed:
 Clone the repository:
 
 ```
-git clone https://github.com/Harshal141/Undefined.git
+git clone https://github.com/HarshwardhanPatil07/Travel-Planner.git
 cd Undefined
 ```
 
@@ -64,5 +62,4 @@ Once the application is running, users can input their preferences like:
 `Number of people` `Budget` `Preferred destinations` `Travel dates`
 The AI will generate a complete travel plan including flights and hotels, along with recommendations for activities and restaurants.
 
-## License
-This project is licensed under the MIT License.
+
